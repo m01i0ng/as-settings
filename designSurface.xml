@@ -1,0 +1,25 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1608205328286.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1608206032552.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/activity_audio_effect.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_audio_handle.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_filter.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_live.xml" value="0.31079234972677594" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_media_handle.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_preview.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_push.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_video_handle.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/adapter_equalizer.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_progress.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_select.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/preview_video.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/menu_setting.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+</application>
